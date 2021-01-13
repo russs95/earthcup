@@ -1,0 +1,2 @@
+# earthcup
+My EarthCup site 
