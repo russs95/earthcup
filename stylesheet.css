@@ -376,6 +376,8 @@
 	position: relative;
 	background: #483737;
 	box-shadow: 0px 0px 32px rgba(62, 65, 74, 0.6);	
+    text-align: left;
+padding: 18px 15px 15px 15px;
 }
 }
 
