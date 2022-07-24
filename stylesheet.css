@@ -307,7 +307,8 @@
         /* Main column */
 
     .row {
-        display: flex;}
+        display: flex;
+        text-align: center;}
     }
 
 @media screen and (min-width: 700px) {
