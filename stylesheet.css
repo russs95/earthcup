@@ -374,7 +374,7 @@
 	padding-bottom: 15px;
 	z-index: 3;
 	position: relative;
-	background: #FFD8AA;
+	background: #483737;
 	box-shadow: 0px 0px 32px rgba(62, 65, 74, 0.6);	
 }
 }
@@ -604,7 +604,7 @@
   /*FEATURE PHOTOS*/
 
   #feature-photos {width: 100%;
+    display:flex;
 }
 
-.flew-photo {width: 33%;
-display: flex;}
+.flex-photo {flex: 33%;}
