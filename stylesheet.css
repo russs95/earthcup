@@ -302,3 +302,24 @@
       }
     }
     
+    #wcb.wcb-d #wcb_a {
+        color: #ddddde !important;
+        background: #717171 !important;
+        border-color: #cfd0d0 !important;
+        }
+            
+         #wcb #wcb_a, #wcb #wcb_g {
+        padding: .3em .5em;
+        border: .13em solid #c4c5c4 !important;
+        }
+        
+       #carbon-banner {
+           background-color: #635454;
+    border-radius: 14px;
+    padding: 10px 0px 10px 0px;
+    margin-top: 14px;
+    max-width: 302px;
+    min-height: 82px;
+    max-height: 85px;
+        }
+        
