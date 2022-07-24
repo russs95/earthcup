@@ -368,27 +368,24 @@ p {
         }
 }	
 
-@media screen and (min-width: 1000px) {
-#header {  
-	padding-top: 18px;
-	padding-bottom: 15px;
-	z-index: 3;
+#header {
+    z-index: 3;
 	position: relative;
 	background: #483737;
 	box-shadow: 0px 0px 32px rgba(62, 65, 74, 0.6);	
-    text-align: left;
+    text-align: left;}
+
+@media screen and (min-width: 1000px) {
+#header {  
+	
 padding: 18px 30px 15px 15px;
 }
 }
 
 @media screen and (max-width: 999px) {
 #header {  
-	padding-top: 14px;
-	padding-bottom: 11px;
-	z-index: 3;
-	position: relative;
-	background: white;
-	box-shadow: 0px 0px 32px rgba(62, 65, 74, 0.6);	
+
+    padding: 14px 10px 11px 15px;	
 }
 }
   
