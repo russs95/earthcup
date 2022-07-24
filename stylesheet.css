@@ -322,4 +322,23 @@
     min-height: 82px;
     max-height: 85px;
         }
+
+        /* Main column */
+
+@media screen and (min-width: 700px) {
+    .virtue {
+      flex: auto;
+      padding: 15px;
+      box-sizing: border-box;
+    }
+    }
+    
+    @media screen and (max-width: 700px) {
+    .virtue {
+      flex: 100%;
+      box-sizing: border-box;
+    }
+    }
+  
+  
         
