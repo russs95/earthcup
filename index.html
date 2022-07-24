@@ -54,312 +54,8 @@
 </meta>
 
 
-<style>
+<link rel="stylesheet" type="text/css" href="http://earthcup.io/stylesheet.css?v1.0">
 
-
-#full-page {
-
-z-index: 0;
-position: relative;
-margin-top: 0px;
-padding-bottom: 0px;
-margin-left: 0px;
-margin-right: 0px;
-overflow-x: hidden !important;
-width: 100%;
-max-width: 100%;
-
-}
-  
-  p {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 16px;
-	font-weight: 300;
-	line-height: 1.3em;
-
-}
-
-b {	font-weight: 400;}
-
-strong {font-weight: 400;}
-
-
-h1 {
-		font-size: 40px;
-font-family: 'Arvo', serif;
-    text-align: center;
-    font-weight: 700;
-    padding-top: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  color: #483737;
-	
-
-}
-
-h2 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 20px !important;
-      text-align: center !important;
-          font-weight: 400;
-  color: #483737;
-}
-
-h3 {
-	font-size: 19px;
-          font-family: 'Arvo', Georgia, serif;
-    line-height: 1.2em !important;
-   /* padding-left: 10px !important;    
-  padding-right: 10px !important;*/
-
-}
-
-h4 {
-	font-size: 18px !important;
-	font-family: 'ubuntu', Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;
-    text-align: center !important;
-          line-height: 1.4 !important;
-   /* padding-left: 7px !important;    
-  padding-right: 7px !important;
-    padding-top: 0px !important;
-    padding-bottom: 0px !important;*/
-
-}
-
-h5 {
-	font-size: 32px !important;
-    font-family: 'Arvo', serif;
-    text-align: center !important;
-  line-height: 32px !important
-    /*padding-left: 1px !important;    
-  padding-right: 1px !important;
-    padding-bottom: 0px !important;
-      padding-top: 0px !important;*/
-
-}
-
-h6 {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 12px;
-      text-align: center !important;
-          font-weight: 300;
-	line-height: 1.3em;
-  color: #483737;
-}
-
-html  {text-align: center;
-display: block;
-background: #ffd8aa;}
-
-#main {text-align: center;
-display: block;
-background: #ffd8aa;
-width: 80%;
-margin:0 auto;}
-
-#image {
-margin:0 auto;
-text-align: center;
-display: block;
-}
-
-
-@media screen and (max-width: 699px) {
-#image { width: 100%;}}
-
-@media screen and (min-width: 700px) {
-#image { width: 50%;}}
-
-.store-shadow {box-shadow: 0px 0px 16px #483737;}
-
-#footer-full {
-  width: 100%;
-  margin-top: 20px;
-}
-
-/* VISION STATEMENT IN FOOTER */
-
-.footer-vision {
-  font-family: Mulish, sans;
-  color: #b0fff7;
-  font-weight: 500;
-  text-align: center;
-  background-color: #252b4d;
-  padding-top: 80px;
-  padding-bottom: 50px;
-}
-@media screen and (max-width: 800px) {
-  .footer-vision {
-
-      font-size: 1.15em;
-      line-height: 1.3;
-      padding-right: 4%;
-      padding-left: 4%;
-  }
-}
-@media screen and (min-width: 770px) and (max-width: 2000px) {
-  .footer-vision {
-      font-size: 1.7em;
-      line-height: 1.3;
-      padding-right: 10%;
-      padding-left: 10%;
-  }
-}
-
-/*INVITE TO CLICK ICONS*/
-
-.footer-invite {
-
-  font-family: Arvo, serif;
-  color: #a8aab8;
-  text-align: center;
-  background-color: #252b4d;
-  line-height: 1.3;
-}
-
-.footer-invite a {
-  color: #a8aab8 !important;
-  text-decoration: pointer;
-}
-.footer-invite a:hover {
-  color: #9fdafc !important;
-  text-decoration: none;
-}
-@media screen and (max-width: 800px) {
-  .footer-invite {
-      font-size: 0.9em;
-      line-height: 1.3;
-      padding-right: 5%;
-      padding-left: 5%;
-  }
-}
-@media screen and (min-width: 800px) and (max-width: 2000px) {
-  .footer-invite {
-      font-size: 1.3em;
-      line-height: 1.3;
-      padding-right: 10%;
-      padding-left: 10%;
-  }
-}
-
-
-
-/* FOUR FOOTER SECTIONS */
-
-.footer-content {
-  padding: 20px 5% 40px;
-  background-color: #252b4d;
-  display: flex;
-  align-items: stretch;
-  flex-direction: row;
-  box-sizing: border-box;
-}
-
-/* Responsive layout - makes a one column-layout instead of two-column layout */
-@media (max-width: 800px) {
-  .footer-content {
-      flex-direction: column;
-  }
-}
-
-.footer-box {
-  padding: 15px;
-  flex: 50%;
-}
-
-.footer-header {
-  font-family: Arvo, serif;
-  color: #529bc2;
-  font-weight: 100;
-  text-align: left;
-  padding-bottom: 10px;
-}
-@media screen and (max-width: 770px) {
-  .footer-header {
-      font-size: 1.2em;
-      line-height: 1.2;
-  }
-}
-@media screen and (min-width: 770px) and (max-width: 2000px) {
-  .footer-header {
-      font-size: 1.5em;
-      line-height: 1.3;
-  }
-}
-
-.footer-subtext {
-  font-family: Mulish, sans-serif;
-  color: #8cbdda;
-  font-weight: 300;
-  text-align: left;
-}
-
-.footer-subtext a {
-  color: #8cbdda;
-}
-.footer-subtext a:hover {
-  color: #fff;
-  text-decoration: none;
-}
-@media screen and (max-width: 800px) {
-  .footer-subtext {
-      font-size: 0.9em;
-      line-height: 1.2;
-  }
-}
-@media screen and (min-width: 800px) and (max-width: 2000px) {
-  .footer-subtext {
-      font-size: 1.1em;
-      line-height: 1.3;
-  }
-}
-
-.footer-bottom {
-  width: 100%;
-  padding-bottom: 50px;
-  background-color: #252b4d;
-  margin-bottom: -20px;
-  text-align: center;
-}
-
-.footer-conclusion {
-  font-family: Mulish, sans;
-  color: #8cbdda;
-  line-height: 1.3;
-  font-weight: 300;
-  text-align: center;
-
-  background-color: #252b4d;
-  padding-top: 5px;
-  padding-bottom: 15px;
-
-}
-
-.footer-conclusion a {
-  color: #9fdafc;
-}
-.footer-conclusion a:hover {
-  color: #fff;
-  text-decoration: none;
-}
-@media screen and (max-width: 800px) {
-  .footer-conclusion {
-      font-size: 0.9em;
-      line-height: 1.2;
-      padding-right: 6%;
-      padding-left: 6%;
-  }
-}
-@media screen and (min-width: 800px) and (max-width: 2000px) {
-  .footer-conclusion {
-      font-size: 1.1em;
-      line-height: 1.3;
-      padding-right: 10%;
-      padding-left: 10%;
-  }
-}
-
-  </style>
 </head>
 
 <BODY id="full-page">
@@ -389,7 +85,7 @@ display: block;
 	
 <div id="footer-full">
 	
-	<div class="footer-vision">We envision a Transition in our Households, Communities and Enterprises from Plastic to ever Greener Harmony with Earth's Cycles.</div>
+	<div class="footer-vision">The EarthCup is another invention and regenerative for-Earth enterprise by Russell Maier.</div>
 	
 	<!--
 	<div class="footer-invite">Connect with us on our various platforms and servers.</div>-->
@@ -400,24 +96,24 @@ display: block;
 	<div class="footer-content">
 
 		<div class="footer-box">
-			<div class="footer-header">Wikipedia</div>
+			<div class="footer-header">For-Earth</div>
 				<div class="footer-subtext">Also know as eco bricks, eco-bricks, EcoBricks, ecolladrillos, plastic bricks and bottle bricks the Global Ecobrick Alliance and Wikipedia recognize <a href="https://en.wikipedia.org/wiki/Ecobricks" target="_blank">'ecobrick'</a> as the official term for the <a href="https://en.wikipedia.org/wiki/Plastic_sequestration" target="_blank">sequestration of plastic</a> inside a PET bottle to make a reusable building block.<br><br>
 				</div>
 				
 			</div>
 			<div class="footer-box">
-				<div class="footer-header">Ecobricker Support</div>
+				<div class="footer-header">Ecological Accounting</div>
 				<div class="footer-subtext">Got questions about ecobricking?  Join Circles, our own communication platform, running on opensource Mattermost.  Get help from trainers and ecobrickers around the world. <a href="https://circles.ecobricks.org/signup_user_complete/?id=ek8ks6frxfbbpj3sujkdo8xsqr">Sign up!</a><br><br></div>
 				<!--<div class="footer-header">Trainer Support</div>-->
-				<div class="footer-subtext">GEA Trainers access your <a href="https://www.ecobricks.org/webmail" target="_blank">webmail</a>, <a href="https://www.ecobricks.org/wp-admin" target="_blank" rel="noopener">wordpress</a>, <a href="https://gobrik.com/#my-trainer" target="_blank" rel="noopener">GoBrik</a> or <a href="https://files.mandala.team" target="_blank" rel="noopener">NextCloud File Server</a> panels.</div>
+				
 			</div>
 			<div class="footer-box">
-				<div class="footer-header">Earth Enterprise</div>
+				<div class="footer-header">Earthen Ethics</div>
 				<div class="footer-subtext">The <a href="/about">Global Ecobrick Alliance</a> is a for-Earth, not-for-profit, enterprise based on <a href="/principles">regenerative principles.</a> We fully disclose our receipt and usage of funds on our <a href="https://gobrik.com/#openbooks" target="_blank" rel="noopener">open books system.</a>We make sure to subtract more CO2 and plastic than we add to the biosphere and to fully disclose all our ecological impacts.  See our <a href="regenreports.php">Regenerativity Report for the past year</a>.  See our <a href="https://www.gobrik.com/#my-catalyst/enterprise-disclosure/5e1f513586a7fe0015e77628/">live ecological impact accounting for the current year.</a></div>
 			</div>
 			<div class="footer-box">
 
-			<div class="footer-header">Tech Partners</div>
+			<div class="footer-header">Buy</div>
 				<div class="footer-subtext">Plastic transition is a global collaboration!  We are grateful to our partners who have given us full access to their awesome technologies.  Thank you to <a href="https://www.dewaweb.com/" target="_blank">DewaWeb Hosting</a> whose servers host our sites, <a href="https://wpml.org/" target="_blank" rel="noopener">to WPML whose plugin makes our wordpress pages multilingual</a>, to <a href="https://Knack.com" target="_blank">Knack</a> whose database development platform is behind our GoBrik app, and to <a href="https://svgator.com" target="_blank" rel="noopener">SVGator</a> whose animation platform gives life to our graphics.</div>
 
 				</div>
