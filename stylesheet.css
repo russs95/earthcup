@@ -16,7 +16,7 @@
       
 p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 1.5px;
+    font-size: 1.5em;
     font-weight: 300;
     line-height: 1.3em;
     
@@ -372,13 +372,13 @@ p {
     z-index: 3;
 	position: relative;
 	background: #483737;
-	box-shadow: 0px 0px 32px rgba(62, 65, 74, 0.6);	
+	box-shadow: 0px 0px 20px rgb(0, 0, 0);	
     text-align: left;}
 
 @media screen and (min-width: 1000px) {
 #header {  
 	
-padding: 18px 30px 15px 15px;
+padding: 26px 0px 35px 45px;
 }
 }
 
