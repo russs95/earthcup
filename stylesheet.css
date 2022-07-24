@@ -597,3 +597,12 @@
     position: relative;
     z-index: 12;
   }
+
+
+  /*FEATURE PHOTOS*/
+
+  #feature-photos {width: 100%;
+}
+
+.flew-photo {width: 33%;
+display: flex;}
