@@ -495,8 +495,9 @@ padding: 35px 0px 25px 45px;
   }
   @media screen and (min-width: 769px) {
     .dropdown-content-language {
-
+        display: none;
         position: absolute;
+ 
         box-shadow: 0 3px 3px rgba(85, 84, 84, 0.6);
         z-index: 10;
         border-radius: 0 0 5px 5px;
@@ -522,9 +523,9 @@ padding: 35px 0px 25px 45px;
         text-align: left;*/
   @media screen and (max-width: 769px) {
     .dropdown-content-language {
-
+        display: none;
         position: absolute;
-        background-color: #FFD8AA;
+        background-color:  #FFD8AA;
         box-shadow: 0 3px 3px rgba(85, 84, 84, 0.6);
         z-index: 10;
         border-radius: 0 0 5px 5px;
@@ -533,7 +534,6 @@ padding: 35px 0px 25px 45px;
         width: fit-content;
         margin-right: 10px;
         text-align: left;
-  
     }
   }
   
