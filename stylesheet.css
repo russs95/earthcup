@@ -52,11 +52,27 @@ p {
     
     h2 {
         font-family: 'Open Sans', sans-serif;
-        font-size: 2.5em;
-          text-align: center;
-              font-weight: 400;
-      color: #483737;
+
+        text-align: center;
+        font-weight: 400;
+        color: #483737;
     }
+
+    @media screen and (max-width: 699px) {
+      h2 {
+        font-size: 1.7em;
+        line-height: 1.3;
+      }
+    }
+
+    @media screen and (min-width: 700px) {
+      h2 {
+        font-size: 2.5em;
+        line-height: 1.3;
+      }
+    }
+
+
     
     h3 {
         font-size: 19px;
@@ -479,9 +495,8 @@ padding: 35px 0px 25px 45px;
   }
   @media screen and (min-width: 769px) {
     .dropdown-content-language {
-        display: none;
+
         position: absolute;
- 
         box-shadow: 0 3px 3px rgba(85, 84, 84, 0.6);
         z-index: 10;
         border-radius: 0 0 5px 5px;
@@ -507,9 +522,9 @@ padding: 35px 0px 25px 45px;
         text-align: left;*/
   @media screen and (max-width: 769px) {
     .dropdown-content-language {
-        display: none;
+
         position: absolute;
-        background-color: white;
+        background-color: #FFD8AA;
         box-shadow: 0 3px 3px rgba(85, 84, 84, 0.6);
         z-index: 10;
         border-radius: 0 0 5px 5px;
@@ -696,6 +711,7 @@ padding: 35px 0px 25px 45px;
   #feature-photos { 
     width: 100%;
     display:flex;
+
 }
 
 .flex-photo {flex: 33%;}
@@ -709,6 +725,7 @@ padding: 35px 0px 25px 45px;
       width: 100%;
   }
   
-  .flex-photo {width: 100%;}
+  .flex-photo {width: 100%;
+    margin-top: -5px;}
   
     }
