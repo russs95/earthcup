@@ -721,7 +721,7 @@ padding: 35px 0px 25px 45px;
   }
 
 
-  @media screen and (min-width: 700px) {
+  @media screen and (min-width: 800px) {
   /*FEATURE PHOTOS*/
 
   #feature-photos { 
@@ -734,16 +734,16 @@ padding: 35px 0px 25px 45px;
 
   }
 
-  @media screen and (max-width: 699px) {
+  @media screen and (max-width: 799px) {
     /*FEATURE PHOTOS*/
   
     #feature-photos { 
       width: 100%;
-      margin-top: -10px;
+      margin-top: -15px;
   }
   
   .flex-photo {
     width: 100%;
-    margin-top: -5px;}
+    margin-top: -7px;}
   
     }
