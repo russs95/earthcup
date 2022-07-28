@@ -141,14 +141,18 @@ p {
     
     .store-shadow {box-shadow: 0px 0px 16px #483737;}
     
+
     #footer-full {
       width: 100%;
       margin-top: 20px;
     }
 
+    /*
     #vision-landscape {
         margin-bottom: -25px;
     }
+
+    */
     
     /* VISION STATEMENT IN FOOTER */
     
@@ -502,7 +506,7 @@ padding: 35px 0px 25px 45px;
         z-index: 10;
         border-radius: 0 0 5px 5px;
         right: 0;
-        top: 68px;
+        top: 71px;
         width: fit-content;
         margin-right: 0px;
         text-align: left;
@@ -530,7 +534,7 @@ padding: 35px 0px 25px 45px;
         z-index: 10;
         border-radius: 0 0 5px 5px;
         right: 0;
-        top: 68px;
+        top: 75px;
         width: fit-content;
         margin-right: 10px;
         text-align: left;
@@ -723,6 +727,7 @@ padding: 35px 0px 25px 45px;
   
     #feature-photos { 
       width: 100%;
+      margin-top: -10px;
   }
   
   .flex-photo {
