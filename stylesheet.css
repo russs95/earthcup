@@ -374,7 +374,7 @@ p {
     }
     }
 
-    #wcb.wcb-d #wcb_a {
+    #wcb #wcb_a {
         color: #ddddde !important;
         background: #2E2F30 !important;
         border-color: #cfd0d0 !important;
