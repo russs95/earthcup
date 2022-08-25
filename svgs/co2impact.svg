@@ -201,7 +201,7 @@
        id="path43006-3-7"
        inkscape:connector-curvature="0" />
     <path
-       style="font-variant:normal;font-weight:normal;font-size:3.57951px;line-height:3.4;font-family:Arvo;-inkscape-font-specification:Arvo;writing-mode:lr-tb;opacity:1;fill:#ffdfb9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0548817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-variant:normal;font-weight:normal;font-size:3.57951px;line-height:3.4;font-family:Arvo;-inkscape-font-specification:Arvo;writing-mode:lr-tb;opacity:1;fill:#ffd8aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0548817px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 100.81046,125.25775 0.92819,1e-5 9e-5,1.11409 h 0.49327 l -0.97042,0.73684 -1.01374,-0.7173 0.56919,-2e-5 z"
        id="path43008-6-5"
        inkscape:connector-curvature="0"
@@ -368,8 +368,8 @@
        inkscape:connector-curvature="0" />
     <path
        id="rect36649-7"
-       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0649377;stroke-miterlimit:4;stroke-dasharray:0.194813, 0.194813;stroke-dashoffset:0"
-       d="m 72.2239,109.60533 -0.02344,11.69748 c -8.51e-4,0.42455 0.351966,0.76649 0.789616,0.76649 h 0.898653 v 0.0101 h 1.527554 v -12.48789 c -1.168805,0.0129 -1.913847,0.0266 -3.192378,0.0139 z"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0659522;stroke-miterlimit:4;stroke-dasharray:0.197856, 0.197856;stroke-dashoffset:0"
+       d="m 72.2239,109.21251 -0.02344,12.06584 c -8.51e-4,0.43793 0.351966,0.79063 0.789616,0.79063 h 0.898653 v 0.0105 h 1.527554 v -12.88114 c -1.168805,0.0133 -1.913847,0.0275 -3.192378,0.0143 z"
        sodipodi:nodetypes="csscccccc" />
     <path
        inkscape:connector-curvature="0"
