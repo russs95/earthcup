@@ -1,40 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="co2impact.svg"
    id="svg6150"
    version="1.1"
    viewBox="0 0 63.512653 42.349838"
    height="42.349838mm"
-   width="63.512653mm">
+   width="63.512653mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs6144" />
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="34"
-     inkscape:window-x="72"
-     inkscape:window-height="1009"
-     inkscape:window-width="1848"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1016"
+     inkscape:window-width="1920"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="67.693584"
-     inkscape:cx="142.02206"
-     inkscape:zoom="1.8953075"
+     inkscape:cy="85.078543"
+     inkscape:cx="128.739"
+     inkscape:zoom="3.790615"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     id="base" />
+     id="base"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata6147">
     <rdf:RDF>
@@ -81,7 +82,7 @@
        sodipodi:nodetypes="sssssssss"
        id="rect36919-5"
        d="M 98.811853,118.57484 H 133.9873 c 0.36901,0 0.66607,0.29707 0.66607,0.66608 v 8.50439 c 0,0.369 -0.29706,0.66607 -0.66607,0.66607 H 98.811853 c -0.369008,0 -0.666081,-0.29707 -0.666081,-0.66607 v -8.50439 c 0,-0.36901 0.297073,-0.66608 0.666081,-0.66608 z"
-       style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.14556;stroke-miterlimit:4;stroke-dasharray:0.873363, 0.873363;stroke-dashoffset:0"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.14556;stroke-miterlimit:4;stroke-dasharray:0.873363, 0.873363;stroke-dashoffset:0"
        inkscape:connector-curvature="0" />
     <g
        id="flowRoot1054-6"
@@ -366,37 +367,28 @@
        style="opacity:1;fill:#ffdfb9;fill-opacity:1;stroke:#483737;stroke-width:0.0727705;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
+       id="rect36649-7"
+       style="fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.0649377;stroke-miterlimit:4;stroke-dasharray:0.194813, 0.194813;stroke-dashoffset:0"
+       d="m 72.2239,109.60533 -0.02344,11.69748 c -8.51e-4,0.42455 0.351966,0.76649 0.789616,0.76649 h 0.898653 v 0.0101 h 1.527554 v -12.48789 c -1.168805,0.0129 -1.913847,0.0266 -3.192378,0.0139 z"
+       sodipodi:nodetypes="csscccccc" />
+    <path
        inkscape:connector-curvature="0"
        id="path35842-2"
        d="M 72.205779,109.22237 H 135.66978"
        style="fill:none;stroke:#000000;stroke-width:0.0680093;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.408056, 0.408056;stroke-dashoffset:0;stroke-opacity:1" />
-    <g
-       transform="matrix(1.1210323,0,0,1.1210323,-33.081913,-180.6918)"
-       style="fill:#483737;fill-opacity:1"
-       id="g36655-9">
-      <path
-         sodipodi:nodetypes="sssssssss"
-         id="rect36649-3"
-         d="m 94.665797,245.03708 h 1.293007 c 0.3904,0 0.704692,0.31429 0.704692,0.70469 v 23.6017 c 0,0.3904 -0.314292,0.70469 -0.704692,0.70469 h -1.293007 c -0.390399,0 -0.704692,-0.31429 -0.704692,-0.70469 v -23.6017 c 0,-0.3904 0.314293,-0.70469 0.704692,-0.70469 z"
-         style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.0588129;stroke-miterlimit:4;stroke-dasharray:0.176439, 0.176439;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         id="rect36651-1"
-         d="m 95.4673,245.048 h 1.362448 v 25.00951 H 95.4673 Z"
-         style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.0606199;stroke-miterlimit:4;stroke-dasharray:0.18186, 0.18186;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path37312-9"
-         d="m 94.139196,258.66987 c 2.885445,0 2.885445,0 2.885445,0"
-         style="fill:#483737;fill-opacity:1;stroke:#ffffff;stroke-width:0.258213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+    <rect
+       style="fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.226961"
+       id="rect100733-5"
+       height="15.454436"
+       x="72.20578"
+       y="93.767929"
+       ry="0"
+       width="3.2703333" />
     <g
        id="text37354-4"
        style="font-style:normal;font-weight:normal;font-size:2.47617px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0619043"
        aria-label="⊕"
-       transform="matrix(1.1721852,0,0,1.1721852,61.115756,-150.5838)">
+       transform="matrix(1.1721852,0,0,1.1721852,61.115756,-150.05463)">
       <path
          id="path142678-7"
          style="fill:#ffffff;stroke-width:0.0619043"
@@ -417,10 +409,7 @@
     <g
        style="font-style:normal;font-weight:normal;font-size:2.1805px;line-height:1.5;font-family:sans-serif;fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.181708"
        id="text869-5"
-       aria-label="Production: Electricity, cutting, sanding
-Materials: Glue, paint
-Digital: Website, sales email, pdf
-Shipping: Indonesian mail 250g package  ">
+       aria-label="Production: Electricity, cutting, sanding Materials: Glue, paint Digital: Website, sales email, pdf Shipping: Indonesian mail 250g package  ">
       <path
          id="path7170"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#483737;fill-opacity:1;stroke-width:0.181708"
@@ -913,10 +902,7 @@ Shipping: Indonesian mail 250g package  ">
     <g
        style="font-style:normal;font-weight:normal;font-size:2.1805px;line-height:1.5;font-family:sans-serif;fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.181708"
        id="text887-0"
-       aria-label="38.73 Kg
-13.58 Kg
-50 Kg
-75 kg">
+       aria-label="38.73 Kg 13.58 Kg 50 Kg 75 kg">
       <path
          id="path7125"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1805px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#483737;fill-opacity:1;stroke-width:0.181708"
@@ -1009,10 +995,7 @@ Shipping: Indonesian mail 250g package  ">
     <g
        style="font-style:normal;font-weight:normal;font-size:2.1805px;line-height:1.5;font-family:sans-serif;fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.181708"
        id="text964-4"
-       aria-label="Bamboo: -0.102Kg CO2 per 0.2kg product
-Plastic Sequest. Credit: From Brikcoin sales
-Replacement: Prevents sale of plastic cups
-  ">
+       aria-label="Bamboo: -0.102Kg CO2 per 0.2kg product Plastic Sequest. Credit: From Brikcoin sales Replacement: Prevents sale of plastic cups   ">
       <path
          id="path6906"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#483737;fill-opacity:1;stroke-width:0.181708"
@@ -1453,10 +1436,7 @@ Replacement: Prevents sale of plastic cups
     <g
        style="font-style:normal;font-weight:normal;font-size:2.1805px;line-height:1.5;font-family:sans-serif;fill:#483737;fill-opacity:1;stroke:none;stroke-width:0.181708"
        id="text988-4"
-       aria-label="-102 Kg
--155 Kg
--8967 Kg
-">
+       aria-label="-102 Kg -155 Kg -8967 Kg ">
       <path
          id="path6867"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.1805px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#483737;fill-opacity:1;stroke-width:0.181708"
