@@ -155,7 +155,7 @@ p {
 
 @media screen and (max-width: 799px) {
   .chart img {
-    width: 100%;
+    width: 85%;
   }
 }
 
