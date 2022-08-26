@@ -125,7 +125,7 @@ p {
     #main {text-align: center;
     display: block;
     background: #ffd8aa;
-    width: 90%;
+    width: 88%;
     margin: 0 auto;}
     }
 
@@ -134,7 +134,7 @@ p {
       #main {text-align: center;
         display: block;
         background: #ffd8aa;
-        width: 89%;
+        width: 80%;
         margin: 0 auto;}
       }
     
@@ -424,9 +424,9 @@ p {
        #carbon-banner {
            background-color: #635454;
     border-radius: 14px;
-    padding: 10px 12px 10px 12px;
+    padding: 8px 12px 8px 12px;
     margin-top: 14px;
-    max-width: 340px;
+    max-width: 330px;
 
         }
   
