@@ -118,12 +118,25 @@ p {
     html  {text-align: center;
     display: block;
     background: #ffd8aa;}
+
+
+    @media screen and (max-width: 799px) {
     
     #main {text-align: center;
     display: block;
     background: #ffd8aa;
-    width: 80%;
-    margin:0 auto;}
+    width: 90%;
+    margin: 0 auto;}
+    }
+
+    @media screen and (min-width: 800px) {
+
+      #main {text-align: center;
+        display: block;
+        background: #ffd8aa;
+        width: 92%;
+        margin: 0 auto;}
+      }
     
     #image {
     margin:0 auto;
@@ -155,7 +168,7 @@ p {
 
 @media screen and (max-width: 799px) {
   .chart img {
-    width: 85%;
+    width: 94%;
   }
 }
 
