@@ -107,7 +107,7 @@
 <div id="main">
 <!--<p><img src="/images/earthcup-2-1-logo.svg" width="110px;" alt="EarthCup Logo"></p>-->
 <br><br>
-<h1>The Greenest Cup Ever.</h1> 
+<h1>The Greenest Cup Ever...</h1> 
 
 <h2>The EarthCup is a beautiful, functional, reusable take-away cup hand-crafted from bamboo and teak wood.  Not only does it carry your favorite beverage in epic green style— it removes CO2 and plastic from the biosphere.</h2><br>
 
